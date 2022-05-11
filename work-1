@@ -1,0 +1,51 @@
+<!DOCUTYPE html>
+<html>
+<head>
+<title>coding skills</title>
+</head>
+<center>
+<body>
+<h1>Welcome to coding skills</h1>
+<h2>web designing online</h3>
+<h3>HTML AND CSS</h3>
+</center>
+<hr size="5px" colour="black">
+<img src="file:///C:/Users/PANGA%20SUKUMAR/Downloads/bcci.jpeg" width=50height=50>
+<h1>BCCI</h1
+<br>
+<br>
+<br>
+<br>
+<center>
+<img src="file:///C:/Users/PANGA%20SUKUMAR/OneDrive/Pictures/Screenshot%202022-04-26%20083914.png"width=500,height=400>
+<h2><u>Mahendra Singh Dhoni</u></h2>
+<br>
+<br>
+</center>
+<h1>Profile:</h1>
+<table>
+ <tr>
+<h2>INTERNATIONAL</h2>
+   <pre>
+            Name            :   Mahendra Singh Dhoni
+            Nick Name       :   Thala
+            Date of Birth   :   07/07/1981
+            Matches         :   179
+            Runs            :   9672
+            Hundreds        :   24
+            Fifties         :   59
+            Strike Rate     :   57
+            Best Score      :   183</pre>
+ 
+<h2>Awards</h2>
+   <pre> 	
+                                 <button>2007 T20 World Cup</button>   <button> 2010 IPL Trophy</button>
+		 <br>
+	            <button> 2011 IPL Trophy</button>                                 <button> 2011 ODI World Cup</button>
+		 <br>
+	                <button> 2013 Champion Trophy</button>              <button> 2018 IPL Trophy </button>
+		 <br>
+	                                     <button> 2021 IPL Trophy </button>
+</body>
+ </html>
+
